@@ -306,3 +306,7 @@ Nos dara la opción de Resolve using "Mine", "Theirs ", Restart Merge.. . en mi 
 ![Captura de pantalla 2025-02-02 115741](./TAREA%202.%20EJERCICIO%20DE%20GIT%20-%20PROYECTO%20LABDIST.assets/Captura%20de%20pantalla%202025-02-02%20115741.png)
 
 En estas 3 últimas imágenes se puede comprobar como no existe ninguna notificación sobre el conflicto, ni en Sourcetree, ni en Visual-Estudio ni en GitHub. 
+
+## ENLACE REPOSITORIO
+
+https://github.com/jalbertolv16/tarea2DAW
