@@ -310,3 +310,7 @@ En estas 3 últimas imágenes se puede comprobar como no existe ninguna notifica
 ## ENLACE REPOSITORIO
 
 https://github.com/jalbertolv16/tarea2DAW
+
+## ENLACE VIDEO PRESENTACIÓN
+
+https://www.loom.com/share/57bc797db5ae4b138e4e017af25484e9?sid=7dde18a3-84b7-4b8c-94de-8815a0bf42c6
